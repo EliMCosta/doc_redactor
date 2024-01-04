@@ -22,5 +22,5 @@ Host: 127.0.0.1:8000
 
 Recomendado trabalhar com ambiente python virtual usando Conda ou outros gerenciadores.
 
-Para contrucao de solucao com hardware fraco (pouca capacidade de processamento paralelo), recomenda-se o uso de reconhecimento de padroes + modelos de linguagem leves (como Spacy).
+Para contrucao de solucao com hardware fraco (pouca capacidade de processamento paralelo), recomenda-se o uso de reconhecimento de padroes + modulo de processamento de linguagem leves (como Spacy).
 
